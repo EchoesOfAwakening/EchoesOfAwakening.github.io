@@ -1,0 +1,8 @@
+- url: /
+  text: "Home"
+- url: /about
+  text: "About Me"
+- url: /services
+  text: "Services"
+- url: /contact
+  text: "Contact"
