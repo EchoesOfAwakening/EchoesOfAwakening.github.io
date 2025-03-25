@@ -3,7 +3,7 @@ version: '3'
 services:
 
   jekyll:
-    image: ruby:3
+    image: ruby:3.4
     working_dir: /src
     environment:
       BUNDLE_PATH: /vendor
